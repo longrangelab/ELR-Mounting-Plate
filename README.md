@@ -27,5 +27,7 @@ A rugged, mounting solution for securely attaching electronic hit indicators to 
 | 26  | M4 Washers         | Flat washers to distribute load and prevent damage | — |
 | 10  | M4 Lock Washers    | Locking washers to resist loosening under vibration/impact | — |
 | 10  | M4 Nuts            | Standard nuts for fastening bolts | — |
+| 2   | Velcro Adhesive Dots | 1.5” round industrial-strength adhesive fasteners for mounting | [Amazon Product Page](https://www.amazon.com/pson-Adhesive-Fasteners-Mounting-Industrial/dp/B0F4DZC5RM) |
+| 1   | Velcro Pad (6x4”)  | Waterproof double-sided adhesive pad for larger mounting surface | [Amazon Product Page](https://www.amazon.com/Upgrade-Adhesive-Double-Side-Fastener-Waterproof/dp/B07D38TNF9) |
 | 1   | TPU 95 Filament    | Flexible filament for impact-absorbing core | — |
 | 1   | ASA Filament       | UV and impact-resistant filament for outer plates | — |
