@@ -93,5 +93,6 @@ The ELR Mounting Plate uses a **multi-material print** combining ASA for rigidit
 ### Why These Settings?
 - **ASA + TPU95 Hybrid:** The rigid ASA shell protects against environmental stress, while the TPU95 core absorbs repeated impacts.  
 - **Gyroid Infill:** Provides isotropic strength and flexibility, superior to grid or honeycomb for impact-heavy applications.  
-- **Wall Passes & Shell Layers:** Extra walls in ASA prevent shattering, while fewer walls in TPU maintain flexibility.  
+- **Wall Passes & Shell Layers:** Extra walls in ASA prevent shattering, while fewer walls in TPU maintain flexibility.
+# Assembly
 
