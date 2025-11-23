@@ -16,3 +16,16 @@ A rugged, mounting solution for securely attaching electronic hit indicators to 
   - Caldwell Flash Bang  
   - MagnetoSpeed T1000  
   - Can be adapted to virtually any hit indicator with future iteration
+# To build the ELR Mounting Plate, you will need the following components:
+
+| Qty | Item | Description | Link |
+|-----|------|-------------|------|
+| 2   | Neodymium Magnets | 180 lb pull force, heavy-duty magnets for mounting pressure | [Amazon Product Page](https://www.amazon.com/MUTUACTOR-Neodymium-Magnets-Anti-Broken-Equipments/dp/B07JKWCVTX) |
+| 4   | M4 Screws (20mm)  | Standard metric screws for securing ASA and TPU layers | — |
+| 2   | M4 Screws (25mm)  | Longer screws for reinforced bracket mounting | — |
+| 2   | M4 Screws (30mm)  | Extra-long screws for thicker assemblies | — |
+| 26  | M4 Washers         | Flat washers to distribute load and prevent damage | — |
+| 10  | M4 Lock Washers    | Locking washers to resist loosening under vibration/impact | — |
+| 10  | M4 Nuts            | Standard nuts for fastening bolts | — |
+| 1   | TPU 95 Filament    | Flexible filament for impact-absorbing core | — |
+| 1   | ASA Filament       | UV and impact-resistant filament for outer plates | — |
