@@ -31,3 +31,13 @@ A rugged, mounting solution for securely attaching electronic hit indicators to 
 | 1   | Velcro Pad (6x4”)  | Waterproof double-sided adhesive pad for larger mounting surface | [Amazon Product Page](https://www.amazon.com/Upgrade-Adhesive-Double-Side-Fastener-Waterproof/dp/B07D38TNF9) |
 | 1   | TPU 95 Filament    | Flexible filament for impact-absorbing core | — |
 | 1   | ASA Filament       | UV and impact-resistant filament for outer plates | — |
+
+
+# Step 1: Printing the PLate
+- Start by downloading the ELR Mounting PLate STL in the stl folder. The orientation of the plate is pictured below. This requires no support.
+- ![full plate before splitting](https://github.com/user-attachments/assets/0c629984-20b7-471a-841c-5df1b2f76e2f)
+- Next, we'll split the plate into 3 different layers: Two layers of ASA on the outside with a layer of TPU sandwiched in the middle. 
+- The first cut will be performed horizontally with a depth of approximately 10.37 mm
+- ![1st cut](https://github.com/user-attachments/assets/d6bfc7aa-6bcb-49da-a1a9-c1e62bed9815)
+- ![1st Print ASA](https://github.com/user-attachments/assets/44106cfb-5d5c-4861-923c-52d12ef57059)
+
