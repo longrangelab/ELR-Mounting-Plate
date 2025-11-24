@@ -55,7 +55,6 @@ Feel free to use it how you see fit :)
 - The third print will be with TPU 95
 - ![3rd Print TPU95](https://github.com/user-attachments/assets/4f4b708b-cb35-46c5-9d68-86251eb3565f)
 
-
 ## Printer Filament Settings
 
 The ELR Mounting Plate uses a **multi-material print** combining ASA for rigidity and TPU95 for impact absorption. Below are the recommended slicer settings for each material:
@@ -95,4 +94,20 @@ The ELR Mounting Plate uses a **multi-material print** combining ASA for rigidit
 - **Gyroid Infill:** Provides isotropic strength and flexibility, superior to grid or honeycomb for impact-heavy applications.  
 - **Wall Passes & Shell Layers:** Extra walls in ASA prevent shattering, while fewer walls in TPU maintain flexibility.
 # Assembly
+First, gather all three layers of the mounting plate and align them so that all holes line up. From the steel side view of the plate, place washers in all of the holes, minus the holes intended for the magnets. Place the appropriate size bolt in each of the holes according to the hardware schedule below:
+![Bolt Layout](https://github.com/user-attachments/assets/0ad7c337-1b50-48e3-b5ab-4ebe8a17f65b)
+
+Once all of the bolts are in, turn the plate around and place washers, lock washers, and nuts on each of the bolts except for the 4 bolts intended for the hit indicator bracket. 
+
+Next, install the two magnets. Depending on how far you want the magnets to stick out past the plate, you can print TPU spacers that I've included in the STL folder and put this spacer behind the magnet. I would also
+recommend using washers on the front side of the plate because this is likely a failure point. The washer will help distribute the large force over a larger footprint. 
+![Rubber Spacer](https://github.com/user-attachments/assets/c3ad813f-340f-4d9e-8896-146b4e99be64)
+
+After the magnets are installed, stack 3 or 4 washers on each of the 30 mm long bolts to build up a base for the metal joiner bar. Place the joiner bar over the two 30 mm bolts and place a washer, locking washer, and nuts over both bolts. 
+
+## Hit indicator brackets
+
+- After all of these steps are completed, you are done building the ELR Mounting Plate. All you have to do now is print the appropriate mounting bracket depending on which hit indicator you have. You'll then slide the bracket over the 4 remaining bolts and lock the bracket down with locking washers and nuts. 
+
+![Fully completed unit](https://github.com/user-attachments/assets/ce8082ff-3e2d-4619-8bc0-4a1cff3375e7)
 
