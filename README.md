@@ -1,7 +1,9 @@
 # ELR-Mounting-Plate
 A rugged, mounting solution for securely attaching electronic hit indicators to steel targets in extreme long-range (ELR) shooting setups. Designed for durability, repeatability, and easy integration with common target systems.
 ## Open Source Collaboration
-The ELR Mounting Plate is fully open source, designed to be shared, modified, and improved by the shooting and maker community. While the current design includes brackets for the Caldwell Flash Bang and MagnetoSpeed T1000, the system is meant to be modular. I encourage contributors to design and submit new brackets for other hit indicators or accessories. By working together, we can expand the versatility of this mounting system and make it a universal solution for ELR shooters everywhere. This is a link to the ONShape document I have been working with: https://cad.onshape.com/documents/a04b2efc3583e73eb0067b3f/w/00cdbc6ac526f38cc4cbc277/e/5109c6cf2e963c5b981c8ac2?renderMode=0&uiState=69238fbefc6a6eeb5f8d1844
+The ELR Mounting Plate is fully open source, designed to be shared, modified, and improved by the shooting and maker community. While the current design includes brackets for the Caldwell Flash Bang and MagnetoSpeed T1000, the system is meant to be modular. I encourage contributors to design and submit new brackets for other hit indicators or accessories. By working together, we can expand the versatility of this mounting system and make it a universal solution for ELR shooters everywhere. This is a link to the ONShape document I have been working with:
+
+- https://cad.onshape.com/documents/a04b2efc3583e73eb0067b3f/w/00cdbc6ac526f38cc4cbc277/e/5109c6cf2e963c5b981c8ac2?renderMode=0&uiState=69238fbefc6a6eeb5f8d1844
 Feel free to use it how you see fit :)
 ![IMG_20251123_082742701_HDR](https://github.com/user-attachments/assets/71474e92-9476-4694-b6de-e58567991f15)
 ![60 fps 0![Back On shape](https://github.com/user-attachments/assets/3fdb3622-1bf8-4e5c-a6eb-2b6bc96cb5c7)
@@ -40,7 +42,7 @@ Feel free to use it how you see fit :)
 | 1   | ASA Filament       | UV and impact-resistant filament for outer plates | — |
 
 
-# Step 1: Printing the PLate
+# Step 1: Printing the Plate
 - Start by downloading the ELR Mounting PLate STL in the stl folder. The orientation of the plate is pictured below. This requires no support.
 - ![full plate before splitting](https://github.com/user-attachments/assets/0c629984-20b7-471a-841c-5df1b2f76e2f)
 - Next, we'll split the plate into 3 different layers: Two layers of ASA on the outside with a layer of TPU sandwiched in the middle. 
