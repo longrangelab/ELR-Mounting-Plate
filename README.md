@@ -108,13 +108,16 @@ recommend using washers on the front side of the plate because this is likely a 
 After the magnets are installed, stack 3 or 4 washers on each of the 30 mm long bolts to build up a base for the metal joiner bar. Place the joiner bar over the two 30 mm bolts and place a washer, locking washer, and nuts over both bolts. 
 
 # Applying Adhesive Strips
-Finally, it's time to apply the adhesive velcro to the back of the plate. Feel free to experiment with different brands of adhesive velcro
+Finally, it's time to apply the adhesive velcro to the back of the plate. Feel free to experiment with different brands of velcro adhesive. The Velcro listed in the BOM is a brand I have found to be particularily durable. In the future I plan on building stencils that will allow you to cut velcro to the exact dimensions of the Mounting Plate. 
+
 
 ![IMG_20251123_082812731_HDR](https://github.com/user-attachments/assets/fa2f87a3-a326-46c5-a0ca-a84e597a6799)
 
+
 ## Hit indicator brackets
 
-- After all of these steps are completed, you are done building the ELR Mounting Plate. All you have to do now is print the appropriate mounting bracket depending on which hit indicator you have. You'll then slide the bracket over the 4 remaining bolts and lock the bracket down with locking washers and nuts. 
+- After all of these steps are completed, you are done building the ELR Mounting Plate. All you have to do now is print the appropriate mounting bracket (Located in the STL folder. Print either the Magneto Speed T1000 or the Caldwell Top and Bottom brackets) depending on which hit indicator you have. You'll then slide the bracket over the 4 remaining bolts and lock the bracket down with locking washers and nuts. 
+
 
 ![Fully completed unit](https://github.com/user-attachments/assets/ce8082ff-3e2d-4619-8bc0-4a1cff3375e7)
 
