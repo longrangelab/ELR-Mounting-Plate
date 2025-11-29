@@ -108,10 +108,17 @@ recommend using washers on the front side of the plate because this is likely a 
 After the magnets are installed, stack 3 or 4 washers on each of the 30 mm long bolts to build up a base for the metal joiner bar. Place the joiner bar over the two 30 mm bolts and place a washer, locking washer, and nuts over both bolts. 
 
 # Applying Adhesive Strips
-Finally, it's time to apply the adhesive velcro to the back of the plate. Feel free to experiment with different brands of velcro adhesive. The Velcro listed in the BOM is a brand I have found to be particularily durable. In the future I plan on building stencils that will allow you to cut velcro to the exact dimensions of the Mounting Plate. 
+Finally, it's time to apply the adhesive velcro to the back of the plate. Feel free to experiment with different brands of velcro adhesive. If you would like to have access to the ELR Mounting plate's screws, then I would recommend printing out the velcro stencil that I have included in the STL folder. 
+![Stencil for velcro](https://github.com/user-attachments/assets/ea2a360d-535c-48b5-a168-f98cc884313f)
+
+Using this stencil will allow you to cut out holes for screws in case you want to take the plate apart, or take the bracket off. 
+
+![Drawing holes out](https://github.com/user-attachments/assets/b7604dbd-8855-469b-9e5d-25ffeb6e7258)
+![Uploading Finished.JPG…]()
 
 
-![IMG_20251123_082812731_HDR](https://github.com/user-attachments/assets/fa2f87a3-a326-46c5-a0ca-a84e597a6799)
+
+
 
 
 ## Hit indicator brackets
