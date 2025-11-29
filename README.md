@@ -114,7 +114,8 @@ Finally, it's time to apply the adhesive velcro to the back of the plate. Feel f
 Using this stencil will allow you to cut out holes for screws in case you want to take the plate apart, or take the bracket off. 
 
 ![Drawing holes out](https://github.com/user-attachments/assets/b7604dbd-8855-469b-9e5d-25ffeb6e7258)
-![Uploading Finished.JPG…]()
+![Finished](https://github.com/user-attachments/assets/9b6d01e2-7f69-4ec7-b16d-5f7a7e114dba)
+
 
 
 
