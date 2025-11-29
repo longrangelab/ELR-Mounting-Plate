@@ -35,7 +35,7 @@ Feel free to use it how you see fit :)
 | 10  | M4 Lock Washers    | Locking washers to resist loosening under vibration/impact | — |
 | 10  | M4 Nuts            | Standard nuts for fastening bolts | — |
 | 2   | Velcro Adhesive Dots | 1.5” round industrial-strength adhesive fasteners for mounting | [Amazon Product Page](https://www.amazon.com/pson-Adhesive-Fasteners-Mounting-Industrial/dp/B0F4DZC5RM) |
-| 1   | Velcro Pad (6x4”)  | Waterproof double-sided adhesive pad for larger mounting surface | [Amazon Product Page](https://www.amazon.com/Upgrade-Adhesive-Double-Side-Fastener-Waterproof/dp/B07D38TNF9) |
+| 2   | Velcro Pad (6x4”)  | Waterproof double-sided adhesive pad for larger mounting surface | [Amazon Product Page](https://www.amazon.com/Upgrade-Adhesive-Double-Side-Fastener-Waterproof/dp/B07D38TNF9) |
 | 1   | Velcro Strap (1/2” wide) | Strap for securing Magneto Speed T1000 hit indicator | [Amazon Product Page](https://www.amazon.com/dp/B0CH8K8VWC) |
 | 1   | Support Bar        | Tool for safely removing the mounting plate from steel targets | [Amazon Product Page](https://www.amazon.com/dp/B0DYF8F2RN) |
 | 1   | TPU 95 Filament    | Flexible filament for impact-absorbing core | — |
