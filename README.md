@@ -68,6 +68,7 @@ The ELR Mounting Plate uses a **multi-material print** combining ASA for rigidit
 | Infill Pattern     | Gyroid                 |
 | Wall Passes        | 5                      |
 | Bottom Shell Layers| 5                      |
+| Top Shell Layers   | 5                      |
 
 **Notes:**  
 - ASA provides UV resistance and high impact strength, making it ideal for outdoor shooting environments.  
@@ -83,6 +84,7 @@ The ELR Mounting Plate uses a **multi-material print** combining ASA for rigidit
 | Infill Pattern     | Gyroid                 |
 | Wall Passes        | 3                      |
 | Bottom Shell Layers| 3                      |
+| Top Shell Layers   | 3                      |
 
 **Notes:**  
 - TPU95 acts as a shock absorber, preventing cracks and distributing impact forces.  
